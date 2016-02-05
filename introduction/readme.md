@@ -1,12 +1,12 @@
 # Liqing Yin Introduction Application
 
 
-## 创建Maven Project
+## 鍒涘缓Maven Project
 Menu:File-->Maven Project-->Group Id:org.apache.maven.archetypes,Artifact Id:maven-archetype-webapp-->
 
-要求使用jre1.7
+瑕佹眰浣跨敤jre1.7
 
-## 向pom.xml增加依赖
+## 鍚憄om.xml澧炲姞渚濊禆
 junit,
 org.springframework:spring-context spring-web spring-webmvc,
 org.apache.tomcat,javax.servlet.jsp,javax.servlet
@@ -27,11 +27,11 @@ pom.xml
 
 You can then access introduction here: http://localhost:8080/introduction/
 
-## 修改web.xml配置文件
+## 淇敼web.xml閰嶇疆鏂囦欢
 contextConfigLocation
 introduction
 
-并修改配置内容：
+骞朵慨鏀归厤缃唴瀹癸細
 /introduction/src/main/resources/introduction/business-config.xml
 /introduction/src/main/resources/introduction/data-access.properties
 /introduction/src/main/resources/introduction/datasource-config.xml
@@ -40,7 +40,7 @@ introduction
 /introduction/src/main/resources/introduction/tools-config.xml
 
 
-## 增加jsp页面文件
+## 澧炲姞jsp椤甸潰鏂囦欢
 /introduction/src/main/webapp/jsp/welcome.jsp
 /introduction/src/main/webapp/jsp/exception.jsp
 /introduction/src/main/webapp/jsp/fragments

@@ -9,7 +9,7 @@
 <meta name="author" content="yinliqing">
 <link rel="icon" href="favicon.ico">
 
-<title>YinLiqing Home</title>
+<title>YinLiQing Home</title>
 
 <!-- Bootstrap core CSS -->
 <link href="bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
@@ -51,7 +51,7 @@
 								class="icon-bar"></span> <span class="icon-bar"></span> <span
 								class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#">Project name</a>
+						<a class="navbar-brand" href="#">YinLiQing</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
