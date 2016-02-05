@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,7 +53,7 @@
 								class="icon-bar"></span> <span class="icon-bar"></span> <span
 								class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#">YinLiQing</a>
+						<a class="navbar-brand" href="index.jsp">YinLiQing</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
@@ -72,6 +74,7 @@
 								</ul></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#">Login</a></li>
 							<li><a href="#">Dashboard</a></li>
 							<li><a href="#">Settings</a></li>
 							<li><a href="#">Profile</a></li>
@@ -104,7 +107,7 @@
 					alt="First slide">
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>Example headline.</h1>
+						<h1>大数据</h1>
 						<p>
 							Note: If you're viewing this page via a
 							<code>file://</code>
@@ -125,7 +128,7 @@
 					alt="Second slide">
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>Another example headline.</h1>
+						<h1>云计算</h1>
 						<p>Cras justo odio, dapibus ac facilisis in, egestas eget
 							quam. Donec id elit non mi porta gravida at eget metus. Nullam id
 							dolor id nibh ultricies vehicula ut id elit.</p>
@@ -142,7 +145,7 @@
 					alt="Third slide">
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>One more for good measure.</h1>
+						<h1>架构</h1>
 						<p>Cras justo odio, dapibus ac facilisis in, egestas eget
 							quam. Donec id elit non mi porta gravida at eget metus. Nullam id
 							dolor id nibh ultricies vehicula ut id elit.</p>

@@ -45,6 +45,12 @@ introduction
 /introduction/src/main/webapp/jsp/exception.jsp
 /introduction/src/main/webapp/jsp/fragments
 
+## 解决中文显示乱码问题
+# 问题描述：源代码存储时使用utf-8编码，浏览器也使用utf-8编码显示，但还是乱码
+# 解决方案：在每个jsp页面第一行增加如下代码，设置pageEncoding="utf-8"
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+
 
 ## Database configuration
 

@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html lang=en>
 <head>
@@ -38,7 +40,7 @@
 					<span class=sr-only>Toggle navigation</span> <span class=icon-bar></span>
 					<span class=icon-bar></span> <span class=icon-bar></span>
 				</button>
-				<a href=.. / class=navbar-brand>YinLiQing</a>
+				<a class="navbar-brand" href="index.jsp">YinLiQing</a>
 			</div>
 			<nav id=bs-navbar class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">

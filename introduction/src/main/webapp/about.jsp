@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,7 +54,7 @@
 								class="icon-bar"></span> <span class="icon-bar"></span> <span
 								class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#">YinLiQing</a>
+						<a class="navbar-brand" href="index.jsp">YinLiQing</a>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
@@ -73,6 +75,7 @@
 								</ul></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#">Login</a></li>
 							<li><a href="#">Dashboard</a></li>
 							<li><a href="#">Settings</a></li>
 							<li><a href="#">Profile</a></li>
