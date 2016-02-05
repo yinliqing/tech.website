@@ -9,7 +9,7 @@
 <meta name="author" content="yinliqing">
 <link rel="icon" href="favicon.ico">
 
-<title>YinLiqing Home</title>
+<title>YinLiQing Home</title>
 
 <!-- Bootstrap core CSS -->
 <link href="bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
