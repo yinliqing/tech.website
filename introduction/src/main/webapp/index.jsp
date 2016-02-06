@@ -145,7 +145,7 @@
 					alt="Third slide">
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>架构</h1>
+						<h1>IT架构</h1>
 						<p>Cras justo odio, dapibus ac facilisis in, egestas eget
 							quam. Donec id elit non mi porta gravida at eget metus. Nullam id
 							dolor id nibh ultricies vehicula ut id elit.</p>
@@ -181,7 +181,7 @@
 				<img class="img-circle"
 					src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
 					alt="Generic placeholder image" width="140" height="140">
-				<h2>Heading</h2>
+				<h2>培训与咨询</h2>
 				<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis
 					euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.
 					Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
@@ -196,7 +196,7 @@
 				<img class="img-circle"
 					src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
 					alt="Generic placeholder image" width="140" height="140">
-				<h2>Heading</h2>
+				<h2>项目与产品</h2>
 				<p>Duis mollis, est non commodo luctus, nisi erat porttitor
 					ligula, eget lacinia odio sem nec elit. Cras mattis consectetur
 					purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo,
@@ -211,7 +211,7 @@
 				<img class="img-circle"
 					src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
 					alt="Generic placeholder image" width="140" height="140">
-				<h2>Heading</h2>
+				<h2>战略规划</h2>
 				<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in,
 					egestas eget quam. Vestibulum id ligula porta felis euismod semper.
 					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum
@@ -233,7 +233,7 @@
 		<div class="row featurette">
 			<div class="col-md-7">
 				<h2 class="featurette-heading">
-					First featurette heading. <span class="text-muted">It'll
+					互联网案例. <span class="text-muted">It'll
 						blow your mind.</span>
 				</h2>
 				<p class="lead">Donec ullamcorper nulla non metus auctor
@@ -252,7 +252,7 @@
 		<div class="row featurette">
 			<div class="col-md-7 col-md-push-5">
 				<h2 class="featurette-heading">
-					Oh yeah, it's that good. <span class="text-muted">See for
+					金融案例. <span class="text-muted">See for
 						yourself.</span>
 				</h2>
 				<p class="lead">Donec ullamcorper nulla non metus auctor
@@ -271,7 +271,7 @@
 		<div class="row featurette">
 			<div class="col-md-7">
 				<h2 class="featurette-heading">
-					And lastly, this one. <span class="text-muted">Checkmate.</span>
+					电信案例. <span class="text-muted">Checkmate.</span>
 				</h2>
 				<p class="lead">Donec ullamcorper nulla non metus auctor
 					fringilla. Vestibulum id ligula porta felis euismod semper.
